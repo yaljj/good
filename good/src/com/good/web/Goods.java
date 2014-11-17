@@ -11,5 +11,8 @@ package com.good.web;
  */
 public class Goods {
 
+    public static void name() {
+        System.out.println("=======");
+    }
 }
 
